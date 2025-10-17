@@ -125,7 +125,7 @@ Iniciamos sesión
 Después de esto, Git crea automáticamente el archivo `.git/credentials`:
 
 ```
-https://Ju4nmaFd3z:ghp_xxxxxxxxxxxxxxxxxxxxxxxxxx@github.com
+https://Ju4nmaFd3z:gho_xxxxxxxxxxxxxxxxxxxxxxxxxx@github.com
 ```
 
 A partir de ese momento, no vuelve a solicitar autenticación.
