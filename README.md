@@ -1,7 +1,7 @@
 # 🧰 Práctica Git – Tokens y credenciales (Solo Consola)
 
 > **Autor:** *Juan Manuel Fernández Rodríguez*  
-> **Asignatura:** Sistemas de Gestión de Versiones – Git y GitHub  
+> **Asignatura:** Entornos de Desarrollo 1ºDAM  
 > **Fecha:** 10-16/10/2025  
 
 ---
